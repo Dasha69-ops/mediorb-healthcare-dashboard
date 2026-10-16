@@ -46,7 +46,7 @@ Power BI dashboard built to let the product/engineering team explore facility de
 
 [Download the interactive dashboard (.pbix)](https://github.com/Dasha69-ops/mediorb-healthcare-dashboard/releases/download/v1_0_/MEDIORB.ANALYSIS.pbix) — requires Power BI Desktop to open.
 
-![Dashboard walkthrough](screenshots/dashboard-walkthrough.gif)
+!![Power BI Dashboard Preview](screenshots/01-market-overview.png)
 
 | Market Overview                                        | User Demand                                    |
 | ------------------------------------------------------ | ---------------------------------------------- |
