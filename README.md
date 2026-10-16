@@ -44,7 +44,7 @@ MVP scope should prioritize stability and reliability (zero-tolerance for crashe
 
 Power BI dashboard built to let the product/engineering team explore facility density by state, competitor failure categories, and demand signals interactively, rather than reading them as static numbers in a report.
 
-[Download the interactive dashboard (.pbix)](https://github.com/Dasha69-ops/mediorb-healthcare-dashboard/releases/download/v1_0_/MEDIORB.ANALYSIS.pbix) — requires Power BI Desktop to open.
+[Download the interactive dashboard (.pbix)](https://github.com/Dasha69-ops/mediorb-healthcare-dashboard/releases/download/v1_0_/MediOrb.1.0.pbix) — requires Power BI Desktop to open.
 
 !![Power BI Dashboard Preview](screenshots/01-market-overview.png)
 
